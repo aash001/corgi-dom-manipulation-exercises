@@ -1,2 +1,2 @@
-const li1 = document.querySelectorAll('li')
-li1[1].classList.add('corgi-queen')
+const corgiQueen = document.querySelectorAll('li')
+corgiQueen[1].classList.add('corgi-queen')

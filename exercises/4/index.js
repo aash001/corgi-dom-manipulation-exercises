@@ -1,4 +1,4 @@
 const dog = document.querySelectorAll('.dog')
 dog.forEach(li => {
-    li.className = 'corgi'
+    li.classList = 'corgi'
 });
