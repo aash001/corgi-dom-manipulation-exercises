@@ -1,4 +1,4 @@
-const dog = document.querySelectorAll('.dog')
+const dog = document.querySelectorAll("li")
 dog.forEach(li => {
-    li.classList = 'corgi'
+    li.classList.replace("dog", "corgi")
 });
